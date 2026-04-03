@@ -1,6 +1,8 @@
-# mc-setup-1-21-8
+# mc-mods
 
 picked by cabbagecanfly • 2025-08-14
+
+For version 1.21.8
 
 client-side mod stuff.  
 [repository download here](https://github.com/CabbageCanFly/mc-setup-1-21-8/archive/refs/heads/main.zip)
